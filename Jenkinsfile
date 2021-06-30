@@ -10,7 +10,7 @@ pipeline {
     }
     environment {
         name = "harsh"
-        age  = 80
+        age  = 24
     }
     stages {
         stage('build') {
